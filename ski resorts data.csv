@@ -1,0 +1,16 @@
+resort_name,country,average_price_eur,num_ski_lifts,beginner_slopes,snowfall_level,travel_time_hours,rating
+Zermatt,Switzerland,850,54,12,High,3.5,9.2
+Chamonix,France,620,49,8,High,5.0,8.9
+Verbier,Switzerland,920,38,6,High,4.0,8.7
+Courchevel,France,980,58,18,Medium,6.0,8.8
+Val Thorens,France,550,29,10,High,6.5,8.5
+Kitzbuhel,Austria,480,57,20,Medium,4.5,8.6
+St. Anton,Austria,520,88,15,High,5.0,8.4
+Cortina d'Ampezzo,Italy,600,37,22,Medium,5.5,8.3
+Livigno,Italy,350,30,18,Medium,6.0,8.1
+Andorra,Andorra,290,31,14,Low,7.0,7.8
+Les Deux Alpes,France,480,22,12,High,5.5,8.0
+Bormio,Italy,420,14,10,Medium,5.0,7.9
+Saalbach,Austria,440,55,16,Medium,4.0,8.2
+Ischgl,Austria,560,45,8,High,5.5,8.6
+Megeve,France,750,74,25,Medium,5.5,8.4
